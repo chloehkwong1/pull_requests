@@ -1,5 +1,5 @@
 # Pull requests
-When collaborating with Derek on a project it is often useful to have a way to present code for review before it enters the codebase so that any changes decisions can be discussed and issues can be mitigated. Many projects use pull requests for this.
+When collaborating with Chloe and Derek on a project it is often useful to have a way to present code for review before it enters the codebase so that any changes decisions can be discussed and issues can be mitigated. Many projects use pull requests for this.
 
 Pull requests can take many forms, but we will be focusing on the way GitHub implements them. Generally other git hosting platforms implement them similarly.
 
