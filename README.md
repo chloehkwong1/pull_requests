@@ -9,7 +9,7 @@ If you aren’t familiar with Git have a look at the Git tutorial
 You’ll want to pair up so that you can practice the workflow.
 
 ## Discuss
-Consider why you might create a branch as opposed to committing to master, what are the pros and cons? How do you decide what belongs in a particular branch?
+Contemplate why you might create a branch as opposed to committing to master, what are the pros and cons? How do you decide what belongs in a particular branch?
 
 ## Exercises
 1. In your own repository
